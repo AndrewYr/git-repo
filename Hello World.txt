@@ -1,6 +1,6 @@
-print("Hello world")
-print('Hi')
-print('Ежик')
-print('hello')
-print('hello my gear friend')
-print('whats up')
+print("Hello world");
+print('Hi');
+print('Ежик');
+print('hello');
+print('hello my gear friend');
+print('whats up');
